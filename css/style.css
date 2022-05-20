@@ -49,3 +49,12 @@ body {
     padding: 1em;
 }
 
+div .obj {
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.obj img {
+    width: 60%;
+}
+
