@@ -31,6 +31,15 @@ body {
     font-size: 0.8em;
 }
 
+.cabecera div {   
+    display: inline-block;
+}
+
+.cabecera .logo img{
+    width: 30px;
+    vertical-align: middle;
+}
+
 .container h1 {
     font-size: 20px;
 }
